@@ -1,0 +1,7 @@
+During the development environment setup, I installed and checked the required tools like Git and VS Code.
+The setup was mostly smooth, but I initially had to check whether Git was properly installed and recognized on my system.
+I verified the Git version using the command prompt and made sure it was working correctly.
+I also configured my Git username and email for making commits.
+After that, I connected my local Git setup with my GitHub account.
+I tested the setup by creating a small repository and pushing a file to GitHub.
+Everything worked properly after the basic configuration, and my development environment is now ready to use.
